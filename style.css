@@ -1,18 +1,3 @@
-ol {
-  margin-left: -40 px;
-  margin-top: -20 px;
-  list-style-position: inside;
-}
-
-/* Write your CSS below, don't change the rules above. */
-body{
-  background: #215ef4}
- h1{
-    color: whitesmoke;
-    background: darkseagreen;
-h2{color: #FF5733;}
-hr{color: #FF5733;}
-
 *{
   text-align: center
 }
@@ -21,3 +6,14 @@ img{
     height: 300px;
     width: 300px;
 }
+
+body{
+  background: #215ef4}
+ h1{
+    color: whitesmoke;
+    background: darkseagreen;
+h2{color: #FF5733;}
+hr{color: #FF5733;}
+
+
+
