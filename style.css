@@ -1,6 +1,6 @@
 ol {
-  margin-left: -40px;
-  margin-top: -20px;
+  margin-left: -40 px;
+  margin-top: -20 px;
   list-style-position: inside;
 }
 
@@ -12,6 +12,6 @@ hr{color:#FF5733;}
   text-align: center
 }
 
-img{ height: 200px;
-    width:  200px;
+img{ height: 200 px;
+    width:  200 px;
    }
