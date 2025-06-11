@@ -5,9 +5,11 @@ ol {
 }
 
 /* Write your CSS below, don't change the rules above. */
-h1{color: black;}
+ h1{
+    color: whitesmoke;
+    background: darkseagreen;
 h2{color: #FF5733;}
-hr{color:#FF5733;}
+hr{color: #FF5733;}
 *{background: #215ef4}
 *{
   text-align: center
